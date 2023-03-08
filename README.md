@@ -1,2 +1,2 @@
 # Quiz-Game
-Just ask the questions and get the results at the end.
+Normal quiz game that will ask 4 simple MCQ questions, and will show the results at the end.
